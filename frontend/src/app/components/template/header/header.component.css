@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+.header a{
+    display: inline;
+    align-items: center;
+    text-decoration: none;
+    color: honeydew;
+}
+.header .title-group{
+    padding-left: 30px;
+    padding-right: 5px;
+}

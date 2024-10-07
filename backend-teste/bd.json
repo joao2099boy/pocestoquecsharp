@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "teste",
+      "qtd": 12,
+      "categoryId": "08d8fb82-714e-446d-81bb-06f412602aec",
+      "price": 112,
+      "id": "obmjpt9"
+    },
+    {
+      "name": "teste de produto",
+      "qtd": 12,
+      "categoryId": "08d8fb82-714e-446d-81bb-06f412602aec",
+      "price": 92.21,
+      "id": "hgHzF_C"
+    },
+    {
+      "name": "teste de produto 918291",
+      "qtd": 12,
+      "categoryId": "08d8fb82-714e-446d-81bb-06f412602aec",
+      "price": 9.21,
+      "id": "Dbp6a9L"
+    }
+  ]
+}
